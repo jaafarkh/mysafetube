@@ -1,6 +1,6 @@
-# MySafeTube V1.0
-this repository is dedicated to provide MySafeTube android App.
-MySafetube is a safe YouTube player build to help Parents setup proper channels and videos for their children. This App has two working modes: Parent mode and Child mode. In Parents mode, parents can do the following:
+# MySafeVid V1.0
+this repository is dedicated to provide MySafeVid android App.
+MySafeVid is a safe YouTube player build to help Parents setup proper channels and videos for their children. This App has two working modes: Parent mode and Child mode. In Parents mode, parents can do the following:
 •	Search and add the Channels/Videos.
 •	Approve requested Channels.
 •	Display already approved Channels.
