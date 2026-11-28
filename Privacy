@@ -1,152 +1,40 @@
-# PRIVACY POLICY
+Privacy Policy
+MySafeVid — VAA
 
-**MySafeVid — Developed by VAA**
+Effective date: November 28, 2026
 
-**Effective date: November 27, 2026**
+1. Personal information
+MySafeVid is a free application developed by VAA to help parents manage approved video content. No account, name, telephone number or date of birth is required. We do not integrate our own advertising networks, behavioral tracking or analytics SDKs, sell personal information or use it for marketing. Technical information may be processed by necessary online services.
 
-MySafeVid is a free application developed by VAA to help parents and legal guardians manage a personalized library of approved video content for their children.
+2. Local information
+Approved channels and videos, titles, identifiers, thumbnail references, parental requests, language, protected PIN information and authentication tokens are stored on the device. Approval libraries are not synchronized to a central account. The PIN is not transmitted to our servers. Parental approvals are stored separately from temporary YouTube metadata. The Made for Kids setting and legal acceptance are also stored locally.
 
-VAA respects the privacy of its users and is committed to protecting their personal information. This Privacy Policy explains how MySafeVid accesses, processes, stores, and uses information, including information processed through third-party services.
+3. Permissions
+The app does not require camera, microphone, contacts, precise location, personal files or photo gallery access. Internet access is necessary for browsing, metadata, security and playback.
 
-## 1. Personal Information
+4. YouTube services
+We use YouTube API Services for public channel and video information and the official embedded player. No authorization of a personal Google account through the Data API is required. Google and YouTube may process IP addresses, device and browser information, cookies and interactions. YouTube controls advertisements, recommendations and links. See https://policies.google.com/privacy and https://www.youtube.com/t/terms MySafeVid is independent and is not endorsed by Google or YouTube.
 
-MySafeVid does not require users to create an account or provide personal information such as their name, email address, telephone number, or date of birth.
+5. Cloud infrastructure and security
+Cloudflare provides the gateway and temporary caching. IP addresses, request details, timestamps and device or browser information may be processed for delivery, security and abuse prevention. Google Play Integrity verifies application authenticity. Integrity information and tokens are used for security, not advertising or profiling. See https://www.cloudflare.com/privacypolicy/ and https://policies.google.com/privacy.
 
-MySafeVid does not integrate its own advertising networks, behavioral tracking systems, or third-party analytics SDKs.
+6. Cookies
+We do not use our own advertising or tracking cookies. YouTube browsing and playback may use cookies or similar storage for functionality, security, preferences and other purposes described in its privacy policy.
 
-We do not sell personal information or use it for advertising, marketing, or behavioral profiling.
+7. Children’s privacy
+MySafeVid is intended for families, including children under parental or guardian supervision. Children are not required to provide directly identifying information. We do not use children’s personal information for personalized advertising or profiling. Parents should review this policy and supervise viewing. Approval does not guarantee suitability of content, advertisements or third-party interactions. Parents may contact us about their child’s information. Parents may restrict channel imports to videos designated Made for Kids by YouTube. This designation is not an independent safety assessment.
 
-However, certain technical information may be processed by the online services necessary to provide application functionality, security, and video playback, as described below.
+8. Retention and deletion
+Parental preferences remain locally until removed or application data is cleared. Public API responses are cached in the cloud for up to 72 hours. Parents can remove approved items or clear application data in Android settings. This does not erase data independently held by third parties. Contact us to request access to or deletion of personal information, if any, held by VAA. Background maintenance attempts to refresh metadata from 25 days after retrieval and expires it at 30 days. Maintenance requires the app to be running and refresh requires connectivity. Expired metadata is excluded from viewing and cleaned up during maintenance; parental approvals are retained. Individually approved videos can recover automatically after a successful refresh. Channel collections may require a manual refresh.
 
-## 2. Locally Stored Information
+9. Security
+We use encrypted communications, protected PIN and token storage and integrity verification. No storage or transmission method guarantees absolute security.
 
-To provide its parental control and video library functionality, MySafeVid stores certain information locally on the user's device, including:
+10. External links
+External services have their own terms and privacy practices, which VAA does not control. In Child mode, supported external navigation requests are subject to parental PIN authorization. The PIN is verified locally; authorization does not change the privacy practices of the destination.
 
-- Parent-approved channels and videos.
-- Video and channel information, including titles, identifiers, and thumbnail references.
-- Parental approval requests.
-- Application preferences and language settings.
-- Securely protected parental PIN information.
-- Authentication tokens required for secure access to our online services.
+11. Changes
+Updated policies will be published with a revised effective date. Where necessary, users will be asked to review and accept them.
 
-Parental approval settings are managed locally and are not synchronized to a centralized user account or remote personal library.
-
-The parental PIN is not transmitted to our servers.
-
-## 3. Device Permissions
-
-MySafeVid does not require access to the device's camera, microphone, contacts, precise location, personal files, or photo gallery.
-
-Internet access is required to retrieve video and channel information, browse YouTube content, verify application authenticity, and play videos.
-
-## 4. YouTube API Services and Video Playback
-
-MySafeVid uses YouTube API Services to retrieve publicly available information about YouTube channels and videos. Video playback is provided through YouTube's official embedded player.
-
-MySafeVid does not require users to authorize access to their personal YouTube or Google accounts through the YouTube Data API.
-
-When users browse or play YouTube content, Google and YouTube may process information such as IP addresses, device and browser information, cookies, playback interactions, and other technical information necessary to operate their services.
-
-YouTube may also display advertisements, recommendations, and links within its services. These are provided and managed by YouTube rather than by MySafeVid.
-
-For further information about Google's data processing practices, please review:
-
-Google Privacy Policy:
-https://policies.google.com/privacy
-
-YouTube Terms of Service:
-https://www.youtube.com/t/terms
-
-MySafeVid is independently developed and is not affiliated with, sponsored by, or endorsed by Google or YouTube.
-
-## 5. Cloud Infrastructure and Application Security
-
-MySafeVid uses Cloudflare services to securely communicate with YouTube API Services, temporarily cache publicly available video and channel information, and improve application performance.
-
-When the application communicates with these services, technical information such as IP addresses, request details, timestamps, and browser or device-related information may be processed for service delivery, security, and abuse prevention.
-
-MySafeVid also uses Google Play Integrity to verify application authenticity and help prevent unauthorized access to its online services.
-
-Application integrity information and authentication tokens are used for security purposes, not for advertising or behavioral profiling.
-
-For further information, please review:
-
-Cloudflare Privacy Policy:
-https://www.cloudflare.com/privacypolicy/
-
-Google Privacy Policy:
-https://policies.google.com/privacy
-
-## 6. Cookies and Similar Technologies
-
-MySafeVid does not use its own cookies for advertising or behavioral tracking.
-
-However, third-party services, particularly YouTube's website and embedded video player, may store or access cookies, browser storage, or similar technologies on the user's device.
-
-Such technologies may be used for video playback, service functionality, security, preferences, and other purposes described in the respective third-party privacy policies.
-
-## 7. Children's Privacy
-
-MySafeVid is designed for use by families, including children under the supervision of their parents or legal guardians.
-
-The application allows parents and legal guardians to select and manage video content through a PIN-protected parental interface.
-
-MySafeVid does not require children to provide their names, email addresses, telephone numbers, photographs, or other directly identifying personal information.
-
-We do not use children's personal information for personalized advertising, marketing, or behavioral profiling.
-
-Parents and legal guardians are encouraged to review this Privacy Policy before allowing children to use the application.
-
-Although MySafeVid provides parental content selection tools, video content, advertisements, recommendations, and certain player features are provided by YouTube. Parental approval does not constitute a guarantee that all content or third-party interactions are appropriate for every child.
-
-If a parent or legal guardian has concerns regarding the processing of their child's information, they may contact us using the contact information provided below.
-
-## 8. Data Retention and Deletion
-
-Parental preferences and application settings are stored locally on the user's device until they are removed by the user or the application's local data is cleared.
-
-Publicly available YouTube API responses are temporarily cached on our cloud infrastructure for up to 72 hours to improve performance and reduce unnecessary network requests.
-
-Locally stored video and channel information may be updated when parents refresh their approved content.
-
-Users may remove approved channels and videos through the parental interface.
-
-Users may also delete locally stored application information by clearing MySafeVid's application data through Android settings.
-
-Deleting information stored by MySafeVid does not delete information independently stored by Google, YouTube, or other third-party service providers.
-
-Users may contact us to request access to or deletion of personal information, if any, held by VAA. We will respond to such requests in accordance with applicable privacy requirements.
-
-## 9. Data Security
-
-We use reasonable technical measures to protect application information and prevent unauthorized access.
-
-These measures include encrypted network communications, protected parental PIN storage, secure authentication token storage, and application integrity verification.
-
-However, no method of electronic storage or internet transmission can guarantee absolute security.
-
-## 10. External Links
-
-MySafeVid may provide access to YouTube websites, video content, and other third-party resources.
-
-These external services are operated independently and are subject to their own terms and privacy policies.
-
-VAA does not control the privacy practices of external service providers.
-
-## 11. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time to reflect changes in application functionality, third-party services, or applicable requirements.
-
-The updated Privacy Policy will be published on this page with a revised effective date.
-
-Where necessary, users will be asked to review and accept the updated policy.
-
-## 12. Contact Us
-
-If you have any questions, concerns, suggestions, or requests regarding this Privacy Policy or the handling of information, please contact us.
-
-**Developer:** VAA
-
-**Application:** MySafeVid
-
-**Email:** jaafar@gmail.com
+12. Contact
+Developer: VAA. Application: MySafeVid. Email: jaafarkhalaf@gmail.com.
